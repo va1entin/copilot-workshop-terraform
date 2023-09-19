@@ -5,7 +5,8 @@
       "extensions": [
         "hashicorp.terraform",
 				"vsls-contrib.codetour",
-				"GitHub.copilot",
+				"GitHub.copilot@prerelease",
+	      "GitHub.copilot-labs",
         "tfsec.tfsec"
       ]
     }
